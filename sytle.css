@@ -1,0 +1,18 @@
+.flag{
+    background-color: yellow;
+    height: 250px;
+    width: 1300px;
+}
+.message{
+    background-color: red;
+    height : 250px;
+    width : 1300px;
+}
+.move{
+    position:absolute;
+    animation:moveLeftToRight 10s linear infinite;
+}
+@keyframes moveLeftToRight{
+    0%{left: -1300px;}
+    100%{left:1300px;}
+}

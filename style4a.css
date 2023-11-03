@@ -1,0 +1,22 @@
+.card{
+    background-color:darkcyan;
+    height: 700px;
+    width: 400px;
+    border-radius: 32px 62px 32px 54px;
+}
+.img{
+    height: 10px;
+    width: 10px;
+    border-radius:10px 10px 10px 10px;
+}
+button{
+    color: black;
+    background-color: whitesmoke;
+    border-radius: 30px;
+}
+h1{
+    color: whitesmoke;
+}
+.card-text{
+    color: black;
+}
